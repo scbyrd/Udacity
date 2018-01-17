@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Reflections</title>
+</head>
+<body>
+
+<h3>Reflections</h3>
+	<ul>
+		<li>What new skills have you learned?</li>
+			<ul>
+				<li>Virtually everything I've learned has been new. Prior to this course my only exposure to HTML was formatting content in a PowerShell script for an auto-generated email. Perhaps the most valuable skill I've gained is learning how to navigate the HTML help sites.</li>
+			</ul>	
+		<li>What has been easy?</li>
+			<ul>
+				<li>The class material, construction, and delivery have been a refreshing breeze thus far. Also, this content and challenges of the course have been relatively easy, but I'm sure that will change soon :)</li>
+			</ul>	
+		<li>What has been difficult?</li>
+			<ul>
+				<li>I can't say that anything so far has been <em>difficult</em>. I'm actually looking forward to the inevitable progression of the coursework.</li>
+			</ul>	
+		<li>How have you used the problem-solving strategies from the first project to overcome challenges so far?</li>
+			<ul>
+				<li><strong>MARKUP VALIDATION SERVICE</strong> has been a huge help to me when testing my code. I also find myself hitting Ctrl+R in my browser as often as possible to validate my code iteratively rather than at the end.</li>
+			</ul>	
+	</ul>
+	
+</body>
+</html>
